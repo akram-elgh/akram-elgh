@@ -16,5 +16,3 @@
 - 📫 How to reach me: elghalbzouri.akram@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-## *Languages*
