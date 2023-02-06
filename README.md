@@ -1,6 +1,6 @@
-### Hi there 👋, I am Akram.
+#                 **Hi there 👋, I am Akram.**
 
-########### I'm a full-stack MERN developer. 
+###                  I'm a full-stack MERN developer. 
 
 
 <!-- **akram-elgh/akram-elgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -16,3 +16,5 @@
 - 📫 How to reach me: elghalbzouri.akram@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+## *Languages*
