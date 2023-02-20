@@ -84,8 +84,10 @@
 <br/>  
 
 
-<!-- ## Github Stats   -->
+## Github Stats  
   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram-elgh&" alt="akram-elgh" /></p>
+
 
 <br/>  
 
