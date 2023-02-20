@@ -84,16 +84,15 @@
 <br/>  
 
 
-## Github Stats
+## 📊 Github Stats
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=akram-elgh&theme=radical&hide_border=true" alt="akram-elgh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akram-elgh&show_icons=true&locale=en&layout=compact" alt="akram-elgh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akram-elgh&show_icons=true&locale=en" alt="akram-elgh" /></p>
-<br/>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram-elgh&" alt="akram-elgh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akram-elgh&show_icons=true&locale=en&theme=radical&hide_border=true&" alt="akram-elgh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akram-elgh&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="akram-elgh" /></p>
 
 
 <br/>  
+
 
 
 <!-- ## Recent Blog Posts   -->
@@ -101,7 +100,9 @@
 
 <br/>  
 
-  
+## 🏆 Github Profile Trophy
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akram-elgh&theme=dracula&no-frame=true&no-bg=true" alt="akram-elgh" /></a> </p>
 
 <br/>  
 
@@ -114,7 +115,7 @@
 
 
 <br />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akram-elgh" alt="akram-elgh" /></a> </p>
+
 
 <!-- ---- -->
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
