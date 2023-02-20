@@ -84,8 +84,12 @@
 <br/>  
 
 
-## Github Stats  
-  
+## Github Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akram-elgh&show_icons=true&locale=en&layout=compact" alt="akram-elgh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akram-elgh&show_icons=true&locale=en" alt="akram-elgh" /></p>
+<br/>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram-elgh&" alt="akram-elgh" /></p>
 
 
