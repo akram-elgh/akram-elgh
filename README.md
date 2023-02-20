@@ -85,8 +85,7 @@
 
 
 ## 📊 Github Stats
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=akram-elgh&theme=radical&hide_border=true" alt="akram-elgh" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akram-elgh&theme=radical&hide_border=true" alt="akram-elgh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akram-elgh&show_icons=true&locale=en&theme=radical&hide_border=true&" alt="akram-elgh" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akram-elgh&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="akram-elgh" /></p>
 
