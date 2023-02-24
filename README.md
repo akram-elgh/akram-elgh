@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my [Portfolio](https://github.com/akram-elgh/Portfolio) and [Keeper-App](https://github.com/akram-elgh/Keeper-App)  
   
 
-- 🌱 I’m currently learning REACT  
+- 🌱 I’m currently learning DOCKER  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
