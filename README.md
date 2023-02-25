@@ -105,9 +105,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=akram-elgh&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
@@ -115,6 +112,19 @@
 
 <br />
 
+## 🎮 Simple and fun javascript Games
 
+<div align="center">
+  <p align="left"><a href="https://akram-elgh.github.io/PigGame/">Pig Game</a></p>
+  <p align="left"><a href="https://akram-elgh.github.io/Drum-kit/">Drum kit</a></p>
+  <p align="left"><a href="https://akram-elgh.github.io/Simon-Game/">Simon Game</a></p>
+  
+</div>
+
+</br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=akram-elgh&&style=flat-square" align="center" />
+</div>  
 <!-- ---- -->
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
