@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Keeper-App](https://github.com/akram-elgh/Keeper-App)  
   
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP and Java
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
