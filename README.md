@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my [Final Year Project](https://github.com/akram-elgh/PFE-SMI-S6)  
   
 
-- 🌱 I’m currently learning PHP and Java
+- 🌱 I’m currently learning PHP
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
