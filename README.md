@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" style="width: 100%" />
+<img src= "https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" style="width: 100%" />
 </div>  
   
 
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 📫 How to reach me elghalbzouri.akram@gmail.com  
+- 📫 How to reach me : elghalbzouri.akram@gmail.com  
   
 
 <br/>  
