@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">Hello! I'm Akram, a MERN stack developer. I am also an Artificial Intelligence and Digital Computing Masters's student.</div>  
+### <div align="center">Hello! I'm Akram, a  MERN  stack developer. I am also an Artificial Intelligence and Digital Computing Masters's student.</div>  
   
 
 - 🔭 I’m currently a Master's student in artificial intelligence and digital computing.  
   
 
-- 🌱 I’m currently learning Machine Learning and Data Science  
+- 🌱 I’m currently learning Machine Learning and Data Science.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.
   
 
 <br/>  
