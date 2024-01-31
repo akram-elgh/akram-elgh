@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello! I'm Akram,  a MERN stack developer. I am also an Artificial Intelligence and Digital Computing Masters's student.</div>  
+### <div align="center">Hello! I'm Akram,  a MERN stack developer. I am also an Artificial Intelligence and digital Computing Masters's student.</div>  
   
 
 - 🔭 I’m currently a Master's student in artificial intelligence and Digital Computing .  
