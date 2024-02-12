@@ -9,7 +9,7 @@
 - 🔭 I’m currently a Master's student in Artificial Intelligence and Digital Computing .  
   
 
-- 🌱 I’m currently learning Machine Learning and Data Science .
+- 🌱 I’m currently learning IoT and Big Data .
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies .
